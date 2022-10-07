@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\weapons\ins2rpg7\v_rpg_dm"
+	"$bumpmap" 			"models\weapons\ins2rpg7\v_rpg_nm"
+	
+	$envmap 			env_cubemap
+	$envmaptint 		"[.01 .01 .01]"
+}
